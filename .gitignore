@@ -2,3 +2,5 @@
 *.pth
 exp
 *.txt
+raw_data/
+data_splits/
